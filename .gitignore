@@ -3,7 +3,7 @@ vendor
 # Ignore configuration files that may contain sensitive information.
 # sites/*/*settings*.php
 
-# docroot/sites/default/settings.local.php
+sites/*/settings.local.php
 
 # Ignore paths that contain generated content.
 files/
