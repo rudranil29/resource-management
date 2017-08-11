@@ -764,7 +764,6 @@ if (file_exists($app_root . '/' . $site_path . '/settings.local.php')) {
   include $app_root . '/' . $site_path . '/settings.local.php';
 }
 
-
 $config_directories['sync'] = 'sites/default/files/config_Nlw6UWy4Frn4RYVgSPwY-lQswxwZhbGX85YM5bRz9CcN7hkmMJQA-yj3NdQu8WnjxMPFEfn6Cw/sync';
 $settings['install_profile'] = 'standard';
 
